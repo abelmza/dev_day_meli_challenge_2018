@@ -1,0 +1,4 @@
+<resources>
+    <!-- Used by RadialTimePicker in clock-style TimePicker. -->
+    <dimen name="padding">-3dp</dimen>
+</resources>
